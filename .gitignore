@@ -1,0 +1,12 @@
+*.dbmdl
+*.pdb
+*.vsidx
+*.log
+*.suo
+*.sqlproj.user
+vs/
+.vs/
+v17/
+obj/
+bin/
+*.jfm
